@@ -14,7 +14,7 @@ fOrange2 = (255,74,0)
 fOrange3 = (255,34,0)
 red = (255,0,0)
 black = (0,0,0)
-purple = (250,0,250)
+purple = (50,0,50)
 fColors = [fOrange1,fOrange2,fOrange3,red,black]
 lightningColor = [[255,255,255],[0,255,0]]
 
